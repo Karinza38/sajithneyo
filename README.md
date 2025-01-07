@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajithneyo
+ - 👋 Hi, I’m @sajithneyo
 - 👀 I’m interested in designing high performance systems and tinkering with AI and Data Science
 - 🌱 I’m currently learning JS and Rust
 - 💞️ I’m looking to collaborate on JS and Rust projects
